@@ -1,9 +1,11 @@
 ![Logo](logo_open_carousell.png "Open Carousell logo")
 
 # Making an impact on Android - Reducing build time and writing open source libraries
-### Date: **Wednesday, September 7th @18:00 (SGT)**
-##### Speakers: **Tim Lin, Jason Liu**
-###### Host: **Damiano Tietto**
+_7 September 2020, Wednesday @ 18:00 (SGT)_
+
+_Speakers:_ **Tim Lin, Jason Liu**
+
+_Host:_ **Damiano Tietto**
 
 Register [here](https://us02web.zoom.us/meeting/register/tZMvduiurzkpGN2lR-ED75-Iw93C3vyAy42p) before September 6th to join
 
@@ -11,12 +13,18 @@ Register [here](https://us02web.zoom.us/meeting/register/tZMvduiurzkpGN2lR-ED75-
 
 ## Previous events
 
-#### Building an Experiment Platform from scratch
-##### Date: **15 July 2020** 
-##### Speakers: **Johnny Nien, Achi Chen** 
-###### Host: **Damiano Tietto**
+### Building an Experiment Platform from scratch
 
-#### How to provide a great iOS experience
-##### Date: **13 May 2020**
-##### Speakers: **Damiano Tietto, Sean Tsai, Darren Chen, Jay Ang**
-###### Host: **Abby Lai**
+_15 July 2020_
+
+_Speakers:_ **Johnny Nien, Achi Chen** 
+
+_Host:_ **Damiano Tietto**
+
+### How to provide a great iOS experience
+
+_13 May 2020_
+
+_Speakers:_ **Damiano Tietto, Sean Tsai, Darren Chen, Jay Ang**
+
+_Host:_ **Abby Lai**
